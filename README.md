@@ -62,3 +62,7 @@ The objective of this project was to transform raw sales data into meaningful in
 - Dashboard Development
 - Business Reporting
 - Microsoft Excel
+
+- ## Dashboard Preview
+
+![Superstore Dashboard](MY EXCEL DASHBOARD.PNG)
