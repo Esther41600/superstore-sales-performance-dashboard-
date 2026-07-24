@@ -65,4 +65,4 @@ The objective of this project was to transform raw sales data into meaningful in
 
 - ## Dashboard Preview
 
-![Superstore Dashboard](MY EXCEL DASHBOARD.PNG)
+![Sales-Performance-Dashboard](MY%20EXCEL%20DASHBOARD.png)
